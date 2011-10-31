@@ -1,0 +1,31 @@
+html {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    margin-top: 10%;
+    text-align:center;
+    background: #002366;
+    background: -moz-radial-gradient( 50% 50%, circle, #990000, #730000 );
+    background: -webkit-radial-gradient( 50% 25%, circle, #990000, #730000 );
+    font-family:  "Leckerli One", "Arial"
+}
+
+#logo {
+    font-size: 110px;
+    color: #4c0000;
+    text-shadow: 0 1px 1px #4c0000;
+    font-weight: normal;
+}
+
+#tagline {
+    padding-top: 30px;
+    color: white;
+    font-size: 120%;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
