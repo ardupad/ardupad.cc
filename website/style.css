@@ -6,7 +6,7 @@ html {
 body {
     padding: 0px;
     margin: 0px;
-    margin-top: 10%;
+    margin-top: 5%;
     text-align:center;
     background: #002366;
     background: -moz-radial-gradient( 50% 50%, circle, #990000, #730000 );
@@ -14,18 +14,23 @@ body {
     font-family:  "Leckerli One", "Arial"
 }
 
-#logo {
+#logotype {
     font-size: 110px;
-    color: #aaa;
-    text-shadow: 0 1px 1px #4c0000;
+    color: #ff5555;
+    text-shadow: #5f2020 4px 4px 10px;
     font-weight: normal;
+}
+
+#logo {
+	padding-top: 30px;
 }
 
 #tagline {
     padding-top: 30px;
     color: white;
-    font-size: 120%;
+    font-size: 200%;
     width: 100%;
     text-align: center;
     margin: 0 auto;
+    text-shadow: #5f2020 4px 4px 10px;
 }
