@@ -11,7 +11,6 @@ body {
     background: #002366;
     background: -moz-radial-gradient( 50% 50%, circle, #990000, #730000 );
     background: -webkit-radial-gradient( 50% 25%, circle, #990000, #730000 );
-    font-family:  "Leckerli One", "Arial"
 }
 
 #logotype {
@@ -19,6 +18,7 @@ body {
     color: #ff5555;
     text-shadow: #5f2020 4px 4px 10px;
     font-weight: normal;
+    font-family:  "Leckerli One", "Arial"
 }
 
 #logo {
@@ -30,7 +30,16 @@ body {
     color: white;
     font-size: 200%;
     width: 100%;
-    text-align: center;
     margin: 0 auto;
     text-shadow: #5f2020 4px 4px 10px;
+    font-family:  "Leckerli One", "Arial"
+}
+
+#codestatus {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    font-family: "Megrim", cursive;
+    text-align: right;
+    color: black;
 }
