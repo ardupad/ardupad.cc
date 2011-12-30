@@ -43,3 +43,42 @@ body {
     text-align: right;
     color: black;
 }
+
+#githubUpdate {
+    background: #ff5555;
+    width: 500px;
+    margin: 0 auto;
+    -moz-border-radius:10px;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    box-shadow: #5f2020 4px 4px 10px;
+    font-family: "Georgia";
+    padding:0 0 20px;
+    margin-top:50px;
+}
+
+#githubUpdate dt {
+    text-align:left;
+    padding:5px;
+    font-size:12px;
+    background:#aaa;
+    -moz-border-radius: 10px 0 10px 0;
+    border-radius: 10px 0 10px 0;
+    -webkit-border-radius: 10px 0 10px 0;
+    font-weight:bold;
+    width:155px;
+    text-shadow: #666 2px 2px 5px;
+}
+
+#githubUpdate dd {
+    text-align:left;
+    padding:5px;
+    margin-top:10px;
+    text-shadow: #5f2020 4px 4px 10px;
+}
+    
+#latestCommitURL {
+    text-decoration:none;
+    text-shadow: #5f2020 4px 4px 10px;
+}
+    
